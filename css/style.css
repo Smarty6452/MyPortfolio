@@ -1,56 +1,54 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 /* Navbar */
-.navbar{
-    position: sticky;
-    top: 0;
-    z-index: 1;
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
-.navbar-nav{
-    font-size: 18px;
-    
+.navbar-nav {
+  font-size: 18px;
 }
 
 /* button  */
 
-.btn:hover{
-   color: white;
+.btn:hover {
+  color: white;
 }
 
-.btn a{
-    text-decoration: none;
+.btn a {
+  text-decoration: none;
 }
-.btn a:hover{
-    color: white;
+.btn a:hover {
+  color: white;
 }
 /* progress bar  */
 
-.progress{
-    height: 40px;
-    border-radius: 50px;
-    transition: all 0.3s ease-in;
+.progress {
+  height: 40px;
+  border-radius: 50px;
+  transition: all 0.3s ease-in;
 }
-.progress:hover{
-    transform: scale(1.1) ;
+.progress:hover {
+  transform: scale(1.1);
 }
 
 /* card  */
-.card{
-    transition: all 0.5s ease;
-    border-radius: 10px;
-
+.card {
+  transition: all 0.5s ease;
+  border-radius: 10px;
 }
 .card img {
-    height: 100px;
-    width: 100px;
-   
-    margin: auto;
+  height: 100px;
+  width: 100px;
+
+  margin: auto;
 }
-.card:hover{
-    transform:scale(1.1);
-    box-shadow: 1px 2px 1px black ;
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 1px 2px 1px black;
 }
