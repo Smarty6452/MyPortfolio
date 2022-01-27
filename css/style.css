@@ -52,3 +52,9 @@
   transform: scale(1.1);
   box-shadow: 1px 2px 1px black;
 }
+.carousel-inner{
+  border-radius: 50%;
+}
+.row img{
+  border-radius: 20px;
+}
