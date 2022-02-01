@@ -45,16 +45,19 @@
 .card img {
   height: 100px;
   width: 100px;
-
   margin: auto;
 }
 .card:hover {
   transform: scale(1.1);
   box-shadow: 1px 2px 1px black;
 }
-.carousel-inner{
-  border-radius: 50%;
+.carousel-inner {
+  
+  border-radius: 55%;
+  width: 348px;
+  height: 340px;
 }
-.row img{
-  border-radius: 20px;
+.row img {
+  border-radius: 46%;
+
 }
