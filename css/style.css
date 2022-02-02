@@ -59,6 +59,8 @@
 }
 .row img {
   border-radius: 47%;
+}
 
-
+.social-links a{
+ color: rgba(0,0,0,.55);;
 }
